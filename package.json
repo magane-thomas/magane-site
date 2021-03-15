@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "node-sass": "^5.0.0",
+    "rollup": "^2.41.2",
+    "semantic-ui-css": "^2.4.1"
+  },
+  "name": "site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
